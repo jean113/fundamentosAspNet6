@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RE2jjyI0Zz2IbioMRif2ywZNnZ3UaKiA0GONp1nTz+c=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "E:\\Jean\\Cursos\\C#\\Fundamentos AspNet6\\blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
